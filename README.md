@@ -1,3 +1,6 @@
-# My Very Own README
+# Where Do *You* Want to Go Today?
 
-Apparently I've unlocked the magical door to a wondrous hidden GitHub feature. This is me testing it.
+I want to:
+
+* [Use cutting-edge AI-powered search to search almost *anything*](https://github.com/alexcg1/jina)
+* [I want to generate janky Star Trek scripts that would never get approved](https://github.com/alexcg1/easy_text_generator)
