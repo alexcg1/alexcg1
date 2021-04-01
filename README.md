@@ -12,4 +12,6 @@ I'm Alex C-G - I'm the Developer Relations Lead at [Jina AI](https://github.com/
 
 Most of the projects in my profile are written in Python, though I also muck around with Arduino and have the usual smattering of shell scripts, Markdown and whatnot.
 
+I like to think of myself as not that hardcore and kinda approachable. But then I remember I live in vim full-time, taught an AI to write crappy Star Trek, and am building robotic butterflies for fun. Eh, so maybe I'm a little hardcore.
+
 ### [Read the rest of my README](https://github.com/alexcg1/readme)
