@@ -3,7 +3,7 @@
 <p align="center">
 <strong>
 
-🐘 [Mastodon](https://chaos.social/web/@alexcg) • 🐦 [Twitter](http://www.twitter.com/alexcg) • 💼 [LinkedIn](https://www.linkedin.com/in/alexcg/) • 🖋️ [Blog](https://blog.alexcg.net) •  📺 [YouTube](https://www.youtube.com/playlist?list=PL31qJ9WBBeNg_wZVSd8AKcgzrJt-iVgxF)
+🐘 [Mastodon](https://chaos.social/@alexcg) • 🐦 [Twitter](http://www.twitter.com/alexcg) • 💼 [LinkedIn](https://www.linkedin.com/in/alexcg/) • 🖋️ [Blog](https://blog.alexcg.net) •  📺 [YouTube](https://www.youtube.com/playlist?list=PL31qJ9WBBeNg_wZVSd8AKcgzrJt-iVgxF)
 
 </strong>
 </p>
